@@ -8,16 +8,16 @@ Sleep Finance is a cutting-edge crypto launchpad designed to support a wide rang
 
 ## Features
 
--   **Presale Fair Launch**: Launch your project with a fair and transparent presale, ensuring equal opportunities for all participants.
--   **Token Creation**: Easily create and deploy your custom tokens, tailored to the unique needs of your project.
--   **Token Staking**: Implement staking programs to incentivize long-term participation and provide stability to your ecosystem.
--   **Liquidity Farming**: Create farming pools to incentivize liquidity providers and foster a vibrant ecosystem for your tokens.
--   **NFT Launchpads**: Launch your NFT projects with ease, tapping into Sleep Finance's robust infrastructure and community.
--   **Airdrops**: Distribute tokens to your community members seamlessly, fostering engagement and loyalty from the start.
+-   **Presale Fair Launch**: Launch your project with a fair and transparent presale, exposing equal opportunity for all participants.
+-   **Token Creation**: Easily create and deploy ERC20 tokens using our advanced token wizard, to build different flavours from the several oppenzepplin extentions customized to the unique needs of your project.
+-   **Token Staking**: Implement a staking program to incentivize long-term user participation and provide liquidity stability to your ecosystem.
+-   **Liquidity Farming**: Create farming pools to reward liquidity providers when they choose to lock thier LP tokens, in order to reduce liquidty volatity in your ecosystem.
+-   **NFT Launchpads**: Launch and Sell any of your NFT projects with ease, tapping into Sleep Finance's robust infrastructure and community.
+-   **Airdrops**: Distribute newly minted tokens to your community members seamlessly, and engage members loyalty from the projects start phase.
 
 ## Getting Started
 
-To start using Sleep Finance, simply visit our [website](https://sleep.finance). website and create an account. Once registered, you'll have access to our full suite of tools and services, enabling you to launch and manage your project effectively.
+To start using Sleep Finance, simply visit our [website](https://sleep.finance). website and connect you web3 wallet in order to register. Once registered, you'll have access to our full suite of tools. If you are a team, take the time to register and verify teams KYC in order to get project visibility.
 
 ## Documentation
 
